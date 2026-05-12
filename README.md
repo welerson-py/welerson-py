@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Welerson%20dos%20Anjos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%26%20Generative%20AI%20Specialist&descSize=18&descAlignY=58)
+# Welerson dos Anjos
+
+### Fullstack Developer & Generative AI Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Python+%7C+IA+Generativa+%7C+RAG+%7C+LangChain;Construindo+sistemas+inteligentes+e+escal%C3%A1veis;Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%2B+ADS;Imers%C3%A3o+t%C3%A9cnica+intensiva+%E2%80%94+ULBRA%2FBRISA)](https://git.io/typing-svg)
 
@@ -26,7 +28,7 @@ class WelersonDosAnjos:
         self.location    = "Sapucaia do Sul, RS — Brasil"
         self.languages   = ["Português (nativo)", "Inglês (fluente)"]
         self.education   = [
-            "Bacharelado em Ciência da Computação — FADERGS",
+            "Bacharelado em Ciência da Computação — UniLasalle",
             "ADS — UniFatecie",
             "Imersão Técnica em Programação — BRISA / ULBRA",
         ]
@@ -92,7 +94,7 @@ class WelersonDosAnjos:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=welerson-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=welerson-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -106,7 +108,7 @@ class WelersonDosAnjos:
 
 | Instituição | Curso | Período |
 |---|---|---|
-| **FADERGS** | Bacharelado em Ciência da Computação | 02/2026 — em andamento |
+| **UniLasalle** | Bacharelado em Ciência da Computação | 02/2026 — em andamento |
 | **UniFatecie** | Análise e Desenvolvimento de Sistemas | 02/2026 — em andamento |
 | **BRISA / ULBRA** | Curso Técnico Integrado em Programação — Imersão | 01/2026 — em andamento |
 | **BRISA / ULBRA** | Curso Técnico Integrado em Programação — Nivelamento | 11/2025 — 01/2026 |
@@ -143,10 +145,8 @@ Se você procura alguém com fundamentos sólidos, fome de aprender e capacidade
 [![Email](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welerson.anjos1@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992929559)
 
-<br/>
+---
 
-![Snake animation](https://github.com/welerson-py/welerson-py/blob/output/github-contribution-grid-snake-dark.svg)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+<sub>Obrigado por visitar — bons códigos.</sub>
 
 </div>
