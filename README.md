@@ -2,9 +2,9 @@
 
 # Welerson dos Anjos
 
-### Fullstack Developer & Generative AI Specialist
+### Backend Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Python+%7C+IA+Generativa+%7C+RAG+%7C+LangChain;Construindo+sistemas+inteligentes+e+escal%C3%A1veis;Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%2B+ADS;Imers%C3%A3o+t%C3%A9cnica+intensiva+%E2%80%94+ULBRA%2FBRISA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Python+%7C+APIs+%7C+Bancos+de+Dados+%7C+Arquiteturas+Escal%C3%A1veis;Construindo+sistemas+robustos+e+performaticos;Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%2B+ADS;Imers%C3%A3o+t%C3%A9cnica+intensiva+%E2%80%94+ULBRA%2FBRISA)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welersondosanjos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welerson.anjos1@hotmail.com)
@@ -23,7 +23,7 @@
 ```python
 class WelersonDosAnjos:
     def __init__(self):
-        self.role        = "Fullstack Developer & Generative AI Specialist"
+        self.role        = "Backend Developer"
         self.age         = 21
         self.location    = "Sapucaia do Sul, RS — Brasil"
         self.languages   = ["Português (nativo)", "Inglês (fluente)"]
@@ -32,14 +32,14 @@ class WelersonDosAnjos:
             "ADS — UniFatecie",
             "Imersão Técnica em Programação — BRISA / ULBRA",
         ]
-        self.focus       = ["Python", "IA Generativa", "RAG", "Arquiteturas Escaláveis"]
+        self.focus       = ["Python", "APIs REST", "Bancos de Dados", "Arquiteturas Escaláveis"]
         self.mindset     = "Alta autonomia, foco em resolução de problemas complexos."
 
     def looking_for(self):
-        return "Primeira oportunidade formal como Desenvolvedor"
+        return "Primeira oportunidade formal como Desenvolvedor Backend"
 ```
 
-> **Em uma frase:** sou um desenvolvedor em formação acadêmica dupla, com imersão técnica intensiva, especializando-me em **Python aplicado à Inteligência Artificial Generativa**. Construo soluções com base científica sólida e entrego código eficiente, escalável e pronto para produção.
+> **Em uma frase:** sou um desenvolvedor backend em formação acadêmica dupla, com imersão técnica intensiva, focado em **Python aplicado a APIs e sistemas escaláveis**. Construo soluções com base científica sólida e entrego código eficiente, escalável e pronto para produção.
 
 ---
 
@@ -49,13 +49,13 @@ class WelersonDosAnjos:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Em estudo
+![JavaScript](https://img.shields.io/badge/JavaScript_(estudando)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Inteligência Artificial & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white)
@@ -138,7 +138,7 @@ class WelersonDosAnjos:
 
 ### Vamos conversar?
 
-Estou em busca da minha **primeira oportunidade formal como Desenvolvedor**.
+Estou em busca da minha **primeira oportunidade formal como Desenvolvedor Backend**.
 Se você procura alguém com fundamentos sólidos, fome de aprender e capacidade de entregar — **vamos trocar uma ideia**.
 
 [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welersondosanjos)
