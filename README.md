@@ -48,9 +48,9 @@ class WelersonDosAnjos:
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Em estudo
+![Java](https://img.shields.io/badge/Java_(estudando)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_(estudando)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Inteligência Artificial & LLMs
@@ -82,6 +82,29 @@ class WelersonDosAnjos:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![POO](https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logo=oop&logoColor=white)
+
+---
+
+## Projetos em Destaque
+
+### [🇧🇷🤝🇭🇹 Oficina de Imigrantes — IA Local Kreyòl ↔ Português](https://github.com/welerson-py/THPTBR)
+
+Sistema offline de tradução para inclusão digital de imigrantes haitianos no Brasil. Pipeline completa de ASR + Tradução + Busca Vetorial, **100% local**, sem custos de API.
+
+**O que entrega:**
+- **7.000+ frases** extraídas de aulas de YouTube via processamento batch
+- **3 modos de uso**: dicionário com áudio, conversa ao vivo via microfone, e modo simplificado pro imigrante usar sozinho
+- **5 camadas de tradução** com sistema de correções culturais (idiomas BR + equivalentes haitianos)
+- **HTTPS local + QR code** pra celulares conectarem sem fricção
+
+**Stack:** Python · faster-whisper · MMS-1B · NLLB-200 · LaBSE · ChromaDB · Streamlit · yt-dlp · ffmpeg
+
+**Arquitetura backend que projetei e implementei:**
+- Pipeline de ingestão com daemon resiliente a falhas de rede
+- Banco vetorial portável (7000 frases empacotadas em 12 MB no git, auto-import em ~5s)
+- Sistema de cache em disco pro TTS (frases comuns ficam instantâneas)
+- Batch processing com NLLB (8 traduções paralelas)
+- Multi-threading no PyTorch (12 cores ativos)
 
 ---
 
@@ -117,10 +140,24 @@ class WelersonDosAnjos:
 
 ## O que estou construindo agora
 
-- **Sistemas RAG (Retrieval-Augmented Generation)** com LangChain, Ollama e bancos vetoriais
-- **APIs de alta performance** com FastAPI integradas a modelos LLM locais (Llama 3)
-- **Pipelines de dados** em Python com Pandas e NumPy para alimentar embeddings
-- **Interfaces interativas** com Streamlit para prototipagem rápida de soluções de IA
+- **APIs REST de alta performance** com FastAPI, autenticação, validação via Pydantic
+- **Pipelines de processamento de dados** em Python (Pandas, NumPy) com tratamento de erros e logging estruturado
+- **Sistemas RAG (Retrieval-Augmented Generation)** integrando LangChain, Ollama e bancos vetoriais (ChromaDB)
+- **Arquitetura orientada a serviços** com Docker para isolamento de dependências
+- **Banco de dados relacionais** modelando schemas normalizados (PostgreSQL, MySQL)
+- **Integração com modelos LLM locais** (Llama 3 via Ollama) para soluções privadas e escaláveis
+
+---
+
+## Princípios de Engenharia
+
+- **Código legível antes de código clever** — manutenção é onde o tempo de verdade é gasto
+- **Tipagem estática quando possível** — Python type hints + Pydantic models pro contrato ficar explícito
+- **Logs estruturados, não `print`** — debug em produção exige observabilidade decente
+- **Idempotência em jobs batch** — rodar duas vezes não pode quebrar nada
+- **Fail-fast, recuperação graciosa** — erro óbvio é melhor que comportamento estranho
+- **Git limpo, commits descritivos** — `feat:`, `fix:`, `docs:`, `refactor:` (convenção semântica)
+- **Documentação que envelhece bem** — README é a primeira impressão do projeto
 
 ---
 
@@ -131,6 +168,7 @@ class WelersonDosAnjos:
 - **Inglês fluente** — leitura de documentação, comunicação técnica e colaboração global
 - **Resolução de problemas sob pressão** — experiência prévia em operações de alto fluxo
 - **Mindset de entrega** — código eficiente, escalável e orientado a resultados
+- **Projeto real entregue de ponta-a-ponta** (ver Oficina de Imigrantes acima) — não só estudos teóricos
 
 ---
 
