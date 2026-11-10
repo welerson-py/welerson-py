@@ -1,190 +1,202 @@
 <div align="center">
 
-# Welerson dos Anjos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1b3a,50:16305c,100:2f55a4&height=190&section=header&text=Welerson%20dos%20Anjos&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20LLM%20Security&descAlignY=58&descSize=18" width="100%"/>
 
-### Backend Developer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Python+%7C+APIs+%7C+Bancos+de+Dados+%7C+Arquiteturas+Escal%C3%A1veis;Construindo+sistemas+robustos+e+performaticos;Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%2B+ADS;Imers%C3%A3o+t%C3%A9cnica+intensiva+%E2%80%94+ULBRA%2FBRISA)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welersondosanjos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welerson.anjos1@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/welerson-py)
-![Location](https://img.shields.io/badge/Porto_Alegre,_RS_🇧🇷-2C2C2C?style=for-the-badge)
-
-![Profile Views](https://komarev.com/ghpvc/?username=welerson-py&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/welerson-py?style=for-the-badge&color=00D9FF&labelColor=2C2C2C)](https://github.com/welerson-py)
-
-</div>
-
----
-
-## Sobre mim
-
-```python
-class WelersonDosAnjos:
-    def __init__(self):
-        self.role        = "Backend Developer"
-        self.age         = 21
-        self.location    = "Sapucaia do Sul, RS — Brasil"
-        self.languages   = ["Português (nativo)", "Inglês (fluente)"]
-        self.education   = [
-            "Bacharelado em Ciência da Computação — UniLasalle",
-            "ADS — UniFatecie",
-            "Imersão Técnica em Programação — BRISA / ULBRA",
-        ]
-        self.focus       = ["Python", "APIs REST", "Bancos de Dados", "Arquiteturas Escaláveis"]
-        self.mindset     = "Alta autonomia, foco em resolução de problemas complexos."
-
-    def looking_for(self):
-        return "Primeira oportunidade formal como Desenvolvedor Backend"
-```
-
-> **Em uma frase:** sou um desenvolvedor backend em formação acadêmica dupla, com imersão técnica intensiva, focado em **Python aplicado a APIs e sistemas escaláveis**. Construo soluções com base científica sólida e entrego código eficiente, escalável e pronto para produção.
-
----
-
-## Stack Técnica
-
-### Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Em estudo
-![Java](https://img.shields.io/badge/Java_(estudando)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_(estudando)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Inteligência Artificial & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Bancos de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=chroma&logoColor=white)
-
-### Frameworks & Bibliotecas
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Ferramentas & Metodologias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![POO](https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logo=oop&logoColor=white)
-
----
-
-## Projetos em Destaque
-
-### [🇧🇷🤝🇭🇹 Oficina de Imigrantes — IA Local Kreyòl ↔ Português](https://github.com/welerson-py/THPTBR)
-
-Sistema offline de tradução para inclusão digital de imigrantes haitianos no Brasil. Pipeline completa de ASR + Tradução + Busca Vetorial, **100% local**, sem custos de API.
-
-**O que entrega:**
-- **7.000+ frases** extraídas de aulas de YouTube via processamento batch
-- **3 modos de uso**: dicionário com áudio, conversa ao vivo via microfone, e modo simplificado pro imigrante usar sozinho
-- **5 camadas de tradução** com sistema de correções culturais (idiomas BR + equivalentes haitianos)
-- **HTTPS local + QR code** pra celulares conectarem sem fricção
-
-**Stack:** Python · faster-whisper · MMS-1B · NLLB-200 · LaBSE · ChromaDB · Streamlit · yt-dlp · ffmpeg
-
-**Arquitetura backend que projetei e implementei:**
-- Pipeline de ingestão com daemon resiliente a falhas de rede
-- Banco vetorial portável (7000 frases empacotadas em 12 MB no git, auto-import em ~5s)
-- Sistema de cache em disco pro TTS (frases comuns ficam instantâneas)
-- Batch processing com NLLB (8 traduções paralelas)
-- Multi-threading no PyTorch (12 cores ativos)
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=welerson-py&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welerson-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
+<a href="https://github.com/welerson-py">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=5B9CFF&center=true&vCenter=true&width=620&lines=Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;RAG%2C+LLMs+locais+e+seguran%C3%A7a+de+modelo;1.200+experimentos.+Zero+GPU.;Pesquisa+publicada+com+c%C3%B3digo+e+dados+abertos" alt="typing"/>
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=welerson-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<a href="https://www.linkedin.com/in/welersondosanjos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://huggingface.co/apollowmm"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://doi.org/10.5281/zenodo.22861168"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22861168-1f4e9c?style=for-the-badge&logo=doi&logoColor=white"/></a>
+<a href="mailto:welerson.anjos1@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=welerson-py&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://komarev.com/ghpvc/?username=welerson-py&style=flat-square&color=2f55a4&label=visitas"/>
+<img src="https://img.shields.io/github/followers/welerson-py?style=flat-square&color=2f55a4&label=seguidores"/>
 
 </div>
 
----
-
-## Formação Acadêmica
-
-| Instituição | Curso | Período |
-|---|---|---|
-| **UniLasalle** | Bacharelado em Ciência da Computação | 02/2026 — em andamento |
-| **UniFatecie** | Análise e Desenvolvimento de Sistemas | 02/2026 — em andamento |
-| **BRISA / ULBRA** | Curso Técnico Integrado em Programação — Imersão | 01/2026 — em andamento |
-| **BRISA / ULBRA** | Curso Técnico Integrado em Programação — Nivelamento | 11/2025 — 01/2026 |
-
----
-
-## O que estou construindo agora
-
-- **APIs REST de alta performance** com FastAPI, autenticação, validação via Pydantic
-- **Pipelines de processamento de dados** em Python (Pandas, NumPy) com tratamento de erros e logging estruturado
-- **Sistemas RAG (Retrieval-Augmented Generation)** integrando LangChain, Ollama e bancos vetoriais (ChromaDB)
-- **Arquitetura orientada a serviços** com Docker para isolamento de dependências
-- **Banco de dados relacionais** modelando schemas normalizados (PostgreSQL, MySQL)
-- **Integração com modelos LLM locais** (Llama 3 via Ollama) para soluções privadas e escaláveis
-
----
-
-## Princípios de Engenharia
-
-- **Código legível antes de código clever** — manutenção é onde o tempo de verdade é gasto
-- **Tipagem estática quando possível** — Python type hints + Pydantic models pro contrato ficar explícito
-- **Logs estruturados, não `print`** — debug em produção exige observabilidade decente
-- **Idempotência em jobs batch** — rodar duas vezes não pode quebrar nada
-- **Fail-fast, recuperação graciosa** — erro óbvio é melhor que comportamento estranho
-- **Git limpo, commits descritivos** — `feat:`, `fix:`, `docs:`, `refactor:` (convenção semântica)
-- **Documentação que envelhece bem** — README é a primeira impressão do projeto
-
----
-
-## Diferenciais
-
-- **Formação acadêmica dupla** (Ciência da Computação + ADS) com base científica sólida
-- **Imersão técnica intensiva** no programa BRISA/ULBRA com foco em autonomia
-- **Inglês fluente** — leitura de documentação, comunicação técnica e colaboração global
-- **Resolução de problemas sob pressão** — experiência prévia em operações de alto fluxo
-- **Mindset de entrega** — código eficiente, escalável e orientado a resultados
-- **Projeto real entregue de ponta-a-ponta** (ver Oficina de Imigrantes acima) — não só estudos teóricos
-
----
+<br/>
 
 <div align="center">
 
-### Vamos conversar?
+### 📄 Pesquisa publicada
 
-Estou em busca da minha **primeira oportunidade formal como Desenvolvedor Backend**.
-Se você procura alguém com fundamentos sólidos, fome de aprender e capacidade de entregar — **vamos trocar uma ideia**.
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welersondosanjos)
-[![Email](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welerson.anjos1@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551992929559)
+> ### [Does Language Resource Level Change Prompt Injection Success in Offline RAG?](https://www.incbac.org/unigou-proceedings/?article_id=919)
+>
+> **UNIGOU Proceedings — INCBAC**, Instituto de Cooperação Acadêmica Brasil–Chéquia · 2026
+>
+> Desenhei e executei um experimento de **1.200 testes** sobre prompt injection indireta em
+> sistemas RAG, em **20 idiomas**, **7 sistemas de escrita** e **3 modelos de peso aberto** —
+> inteiramente em CPU, sem GPU nenhuma.
+>
+> O achado é contraintuitivo: o ataque funciona **menos** em idiomas de baixo recurso, caindo de
+> 60% para 9,5% na classe de payload imune a erro de medição. **Mas isso não é segurança.** O
+> modelo falha em entender o ataque e a pergunta do usuário igualmente — sem atacante nenhum,
+> **30% das respostas vinham sem fundamento no documento**, a 5 ou 6 vezes o custo de compute.
+>
+> Durante a análise encontrei **quatro defeitos na minha própria instrumentação**, e os quatro
+> favoreciam a minha hipótese. Corrigi, o resultado ficou mais fraco, e foi esse que publiquei —
+> com as 1.200 gerações brutas abertas, pra qualquer um discordar da minha pontuação com dado.
 
----
+<div align="center">
 
-<sub>Obrigado por visitar — bons códigos.</sub>
+[![Artigo](https://img.shields.io/badge/📘_Artigo-16305c?style=for-the-badge)](https://www.incbac.org/unigou-proceedings/?article_id=919)
+[![Código](https://img.shields.io/badge/💻_C%C3%B3digo-16305c?style=for-the-badge)](https://github.com/welerson-py/RAGSEC)
+[![Dataset](https://img.shields.io/badge/📊_Dataset-16305c?style=for-the-badge)](https://huggingface.co/datasets/apollowmm/ragsec-prompt-injection)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛠 Stack
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,aws,git,linux&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs,cs,vscode&theme=dark" />
+
+</div>
+
+<table>
+<tr><td><b>Backend</b></td><td>Python · FastAPI · SQLAlchemy · APIs REST · JWT · Java · Spring Boot · Node.js · .NET</td></tr>
+<tr><td><b>Dados</b></td><td>PostgreSQL · MySQL · SQL Server · SQLite · ChromaDB · pgvector</td></tr>
+<tr><td><b>IA e LLM</b></td><td>RAG · Segurança de LLM · Llama 3 / Ollama · LangChain · embeddings · Whisper · NLLB</td></tr>
+<tr><td><b>Front e infra</b></td><td>React · TypeScript · Next.js · Docker · AWS · Git</td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💼 Experiência · ~5 anos
+
+</div>
+
+| Período | Onde | O quê |
+|:--|:--|:--|
+| **set/2026 — atual** | Universidade La Salle | Pesquisador de Iniciação Científica — projeto de resiliência climática e saúde, pelo RS Talentos |
+| **mai — nov/2026** | INCBAC | Cientista de Pesquisa e Desenvolvimento — o experimento acima |
+| **2026** | Carmillion | Customização de assistentes de IA por caso de uso de cliente |
+| **2025 — 2026** | Residência em TIC, BRISA | Backend de sistema para prestadores de serviço: FastAPI, SQLAlchemy, PostgreSQL, JWT, em equipe de seis |
+| **2022 — 2024** | Magic Games | Site da empresa — TypeScript no front, Java com Spring Boot no back |
+
+**Formação:** Ciência da Computação na Unilasalle *(conclusão jan/2029)* · Tecnólogo em ADS na UniFatecie *(2028)*
+
+<br/>
+
+<div align="center">
+
+### 🚀 Projetos
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [🤖 Lumi](https://github.com/welerson-py/lumi)
+
+Assistente de mesa distribuído: cliente ESP32 e servidor Python por WebSocket, com LLM local e
+reserva offline.
+
+A decisão que importa é de segurança: **o robô nunca envia comando, só o nome de uma ação**,
+resolvida contra um registro fechado no servidor. Microfone sempre ligado, na rede local, com
+poder de abrir programas — e UID de cartão RFID se clona com celular. Não existe caminho onde
+texto da rede vire comando de sistema.
+
+`ESP32` `asyncio` `WebSocket` `Ollama`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🇧🇷🤝🇭🇹 Oficina de Imigrantes
+
+Tradução Kreyòl ↔ Português **100% offline**, para inclusão digital de imigrantes haitianos.
+Sem internet, sem custo de API.
+
+- **7.000+ frases** extraídas de aulas em vídeo em lote
+- Banco vetorial portável: 7.000 frases em **12 MB**, importação em ~5s
+- HTTPS local com QR code — o celular entra sem instalar nada
+- Cache em disco para TTS e 8 traduções paralelas no NLLB
+
+`faster-whisper` `NLLB-200` `LaBSE` `ChromaDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🔬 RAGSEC](https://github.com/welerson-py/RAGSEC)
+
+O harness de avaliação por trás do artigo. Ingestão, chunking, recuperação por cosseno exato
+sobre SQLite, geração em modelos locais e pontuação por múltiplos sinais independentes.
+
+`Python` `SQLite` `Ollama` `pandas`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 AURA
+
+RAG local sobre PDF, CSV e TXT corporativos usando modelo local, sem nenhuma dependência de
+nuvem.
+
+`LangChain` `ChromaDB` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=welerson-py&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5B9CFF&icon_color=5B9CFF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welerson-py&layout=compact&hide_border=true&bg_color=0d1117&title_color=5B9CFF&text_color=c9d1d9&langs_count=8"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=welerson-py&hide_border=true&background=0d1117&stroke=1f2a3d&ring=5B9CFF&fire=5B9CFF&currStreakLabel=5B9CFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=welerson-py&bg_color=0d1117&color=c9d1d9&line=5B9CFF&point=ffffff&area=true&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=welerson-py&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚙️ Princípios de engenharia
+
+</div>
+
+```text
+Código legível antes de código esperto — manutenção é onde o tempo de verdade é gasto
+Contrato explícito — type hints e Pydantic, pra interface não depender de combinação verbal
+Log estruturado, não print — depuração em produção exige observabilidade decente
+Idempotência em job em lote — rodar duas vezes não pode quebrar nada
+Falha óbvia, recuperação graciosa — erro visível é melhor que comportamento estranho
+Instrumentar desde o dia um — foi assim que achei quatro bugs meus que me favoreciam
+```
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/welerson-py/welerson-py/output/snake.svg" alt="snake"/>
+
+<br/><br/>
+
+**Português** nativo · **Inglês** avançado — leio documentação técnica diariamente e publiquei artigo científico em inglês
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f55a4,50:16305c,100:0b1b3a&height=120&section=footer" width="100%"/>
 
 </div>
